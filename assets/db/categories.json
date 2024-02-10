@@ -1,0 +1,30 @@
+[
+    {
+        "category_name": "Dirt Crush 2.0",
+        "category_id": "dc2"
+    },
+    {
+        "category_name": "RE Interceptor 650",
+        "category_id": "re_intr"
+    },
+    {
+        "category_name": "Portfolio",
+        "category_id": "imgs"
+    },
+    {
+        "category_name": "Sandbox Music Festival",
+        "category_id": "smf"
+    },
+    {
+        "category_name": "Sports",
+        "category_id": "sports"
+    },
+    {
+        "category_name": "Products",
+        "category_id": "product"
+    },
+    {
+        "category_name": "3rd Rally of Himalayas",
+        "category_id": "3roh"
+    }
+]

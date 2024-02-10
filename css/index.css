@@ -1,0 +1,37 @@
+body .photo-gallery {
+  width: 100%;
+  position: relative;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+  opacity: 0;
+  animation: on-page-load-img 0.5s ease 0.75s forwards;
+  padding: 1.5rem;
+}
+body .photo-gallery img {
+  position: relative;
+  width: auto;
+  height: 80vh;
+  padding: 1.5rem;
+  align-self: center;
+  justify-self: center;
+  grid-row: 1;
+  grid-column: 1;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+body .photo-gallery img.active {
+  opacity: 1;
+}
+
+@media (max-width: 1120px) {
+  body .photo-gallery {
+    padding: 0;
+  }
+  body .photo-gallery img {
+    width: 100%;
+    height: auto;
+  }
+}/*# sourceMappingURL=index.css.map */
