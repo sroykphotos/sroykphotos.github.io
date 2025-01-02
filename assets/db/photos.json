@@ -59,22 +59,28 @@
     {
         "img_name": "2_2_11zon.jpg",
         "category": "dc2"
+        "category_display": true
+        
     },
     {
         "img_name": "3_3_11zon.jpg",
         "category": "dc2"
+        "category_display": true
     },
     {
         "img_name": "4_4_11zon.jpg",
         "category": "dc2"
+        "category_display": true
     },
     {
         "img_name": "5_5_11zon.jpg",
         "category": "dc2"
+        "category_display": true
     },
     {
         "img_name": "6_6_11zon.jpg",
         "category": "dc2"
+        "category_display": true
     },
     {
         "img_name": "1_1_11zon.jpg",
@@ -84,14 +90,17 @@
     {
         "img_name": "2_2_11zon.jpg",
         "category": "re_intr"
+        "category_display": true
     },
     {
         "img_name": "3_3_11zon.jpg",
         "category": "re_intr"
+        "category_display": true
     },
     {
         "img_name": "4_4_11zon.jpg",
         "category": "re_intr"
+        "category_display": true
     },
     {
         "img_name": "1-2-min.JPG",
@@ -100,6 +109,7 @@
     {
         "img_name": "1-3-min.JPG",
         "category": "smf"
+        "category_display": true
     },
     {
         "img_name": "1-4-min.JPG",
@@ -108,6 +118,7 @@
     {
         "img_name": "1-5-min.JPG",
         "category": "smf"
+        "category_display": true
     },
     {
         "img_name": "1-6-min.JPG",
@@ -121,26 +132,32 @@
     {
         "img_name": "1-8-min.JPG",
         "category": "smf"
+        "category_display": true
     },
     {
         "img_name": "1-min.JPG",
         "category": "smf"
+        "category_display": true
     },
     {
         "img_name": "1_1_11zon.jpg",
         "category": "sports"
+        "category_display": true
     },
     {
         "img_name": "2_2_11zon.jpg",
         "category": "sports"
+        "category_display": true
     },
     {
         "img_name": "3_3_11zon.jpg",
         "category": "sports"
+        "category_display": true
     },
     {
         "img_name": "4_4_11zon.jpg",
         "category": "sports"
+        "category_display": true
     },
     {
         "img_name": "5_5_11zon.jpg",
@@ -150,10 +167,12 @@
     {
         "img_name": "6_6_11zon.jpg",
         "category": "sports"
+        "category_display": true
     },
     {
         "img_name": "7_7_11zon.jpg",
         "category": "sports"
+        "category_display": true
     },
     {
         "img_name": "8 (1)_8_11zon.jpg",
@@ -162,30 +181,37 @@
     {
         "img_name": "8 (2)_9_11zon.jpg",
         "category": "sports"
+        "category_display": true
     },
     {
         "img_name": "8 (3)_10_11zon.jpg",
         "category": "sports"
+        "category_display": true
     },
     {
         "img_name": "product_02_11zon.jpg",
         "category": "product"
+        "category_display": true
     },
     {
         "img_name": "2_2_11zon.jpg",
         "category": "product"
+        "category_display": true
     },
     {
         "img_name": "3_3_11zon.jpg",
         "category": "product"
+        "category_display": true
     },
     {
         "img_name": "4_4_11zon.jpg",
         "category": "product"
+        "category_display": true
     },
     {
         "img_name": "5_5_11zon.jpg",
         "category": "product"
+        "category_display": true
     },
     {
         "img_name": "1_reduced.png",
@@ -195,6 +221,7 @@
     {
         "img_name": "1.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "2.JPG",
@@ -204,53 +231,66 @@
     {
         "img_name": "3.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "4.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "5.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "6.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "7.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "8.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "9.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "10.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "11.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "12.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "13.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "14.JPG",
         "category": "3roh"
+        "category_display": true
     },
     {
         "img_name": "15.JPG",
         "category": "3roh"
+        "category_display": true
     }
 ]
