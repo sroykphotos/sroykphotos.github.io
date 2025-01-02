@@ -1,5 +1,5 @@
 var img_elements = [];
-const num_images = 5;
+const num_images = 100;
 let image_index = 0;
 
 async function loadImages() {
